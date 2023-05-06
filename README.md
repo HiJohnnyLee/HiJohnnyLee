@@ -1,7 +1,18 @@
-### Hi there 👋
-### Keep learning! ⚡
+# Hi there 👋
+
+**I am glad you can click to open my homepage**
+
+- 🌱 I’m currently majoring in Software Engineering at WHPU.
 
 -  PHP & GO 开发！
+
+## My Skills
+
+### Conversant
+
+[![My Skills](https://skillicons.dev/icons?i=go,php,lua,python,vue,linux,k8s,docker,mysql,mongodb,redis,kafka,rabbitmq,laravel&perline=5)](https://skillicons.dev)
+
+## More Info
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HiJohnnyLee)](https://github.com/HiJohnnyLee)
 
