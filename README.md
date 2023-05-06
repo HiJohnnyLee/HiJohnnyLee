@@ -4,8 +4,6 @@
 
 ## My Skills
 
-### Conversant
-
 [![My Skills](https://skillicons.dev/icons?i=go,php,lua,python,vue,linux,k8s,docker,mysql,mongodb,redis,kafka,rabbitmq,laravel&perline=5)](https://skillicons.dev)
 
 ## More Info
