@@ -2,10 +2,6 @@
 
 **I am glad you can click to open my homepage**
 
-- 🌱 I’m currently majoring in Software Engineering at WHPU.
-
--  PHP & GO 开发！
-
 ## My Skills
 
 ### Conversant
